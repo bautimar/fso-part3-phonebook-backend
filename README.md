@@ -1,2 +1,1 @@
-# fullstackopen-part3ab
-Fullstack open node application for part 3a and 3b.
+# fso-phonebook-backend (part3a and part3b)
